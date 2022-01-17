@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shopify-code-challenge/static/css/main.00b7ab96.css",
+    "main.js": "/shopify-code-challenge/static/js/main.0f6b5289.js",
+    "static/js/787.92374907.chunk.js": "/shopify-code-challenge/static/js/787.92374907.chunk.js",
+    "index.html": "/shopify-code-challenge/index.html",
+    "main.00b7ab96.css.map": "/shopify-code-challenge/static/css/main.00b7ab96.css.map",
+    "main.0f6b5289.js.map": "/shopify-code-challenge/static/js/main.0f6b5289.js.map",
+    "787.92374907.chunk.js.map": "/shopify-code-challenge/static/js/787.92374907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b7ab96.css",
+    "static/js/main.0f6b5289.js"
+  ]
+}
